@@ -13,7 +13,8 @@ h1 {
     color: darkblue;
 }
 
-img {
+img,
+main img {
     width: 150px;
     height: auto;
     border: 1px solid black;
@@ -32,7 +33,7 @@ main {
 aside {
     width: 50rem;
     margin: 1rem;
-    border: 1px solid rgb(0, 0, 0/0.2);
+    border: 1px solid rgba(red, green, blue, alpha);
     padding: 1rem;
     background-color: #eee;
     color: #333;
@@ -42,11 +43,6 @@ aside {
 
 aside img {
     width: 200px;
-    height: auto;
-}
-
-main img {
-    width: 150px;
     height: auto;
 }
 
