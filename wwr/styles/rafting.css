@@ -82,7 +82,7 @@ footer {
     height: auto;
 }
 
-h1 {
+.hero h1 {
     position: absolute;
     top: 20px;
     width: 100%;
@@ -94,7 +94,7 @@ h1 {
 
 }
 
-article {
+.hero article {
     position: absolute;
     top: 325px;
     left: 2px;
