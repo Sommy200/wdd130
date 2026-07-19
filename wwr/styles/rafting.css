@@ -61,9 +61,14 @@ article {
     padding: 8px;
 }
 
+footer {
+    background-color: var(--accent2-color);
+}
+
 .socialmedia a {
     text-decoration: none;
     margin-top: 1rem;
+
 }
 
 .hero {
